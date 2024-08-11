@@ -1,2 +1,10 @@
-# screen-recorder
-screen and voice recorder with python
+# Screen Recorder
+
+**Reason for development:**
+
+
+
+**Install Requairements:**
+```bash
+pip install -r requirements.txt
+```

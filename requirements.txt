@@ -1,0 +1,7 @@
+numpy
+pyautogui
+opencv-python
+pyaudio
+wave
+pynput
+moviepy
